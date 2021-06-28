@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmedafsal
-- 👀 I’m interested in software development
+- 👀 I’m interested in build something beautiful
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on front-end development
 - 📫 How to reach me ahmedafsal39@gmail.com
